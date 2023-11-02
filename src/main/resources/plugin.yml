@@ -1,0 +1,5 @@
+name: PingFloor
+main: dev.tommyjs.pingfloor.PingFloor
+version: 1.0
+author: Zoltic Network
+depend: ["ProtocolLib"]
